@@ -5,19 +5,19 @@ I am Nishit, Currently I am Learning about Full Stack Web-development.I am a tec
   <a href="https://www.youtube.com/channel/UCwsZPZcuwBnyG1ytZjFsigA" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/coder_nishitbaria_offcial_/" target="_blank">
+  <a href="https://www.instagram.com/coder_HimanshuNarware_offcial_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="Nishitbaria@gmail.com" target="_blank">
-  <a href="https://www.linkedin.com/in/nishitbaria/" target="_blank">
+  <a href="HimanshuNarware@gmail.com" target="_blank">
+  <a href="https://www.linkedin.com/in/HimanshuNarware/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/Nishitbaria1" target="_blank">
+  <a href="https://twitter.com/HimanshuNarware1" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
 ## ⚡ Technologies
-### Language :
+
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=openjdk)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -42,12 +42,12 @@ I am Nishit, Currently I am Learning about Full Stack Web-development.I am a tec
  ##  My GitHub Stats <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 35px> 
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Nishitbaria&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nishitbaria&theme=tokyonight"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HimanshuNarware&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuNarware&theme=tokyonight"/>
 	<details>
   <summary><b>:zap:TOP LANGUAGE </b></summary>
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nishitbaria&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuNarware&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 	
 	
 </details>
@@ -55,7 +55,7 @@ I am Nishit, Currently I am Learning about Full Stack Web-development.I am a tec
 	
 <div align="center">
   <br>
-  <img alt="snake eating my contribution" src="https://github.com/Nishitbaria/Nishitbaria/blob/output/github-contribution-grid-snake.svg">
+  <img alt="snake eating my contribution" src="https://github.com/HimanshuNarware/HimanshuNarware/blob/output/github-contribution-grid-snake.svg">
   <br>      <br>     <br>      </div>
 	
 	
@@ -64,12 +64,12 @@ I am Nishit, Currently I am Learning about Full Stack Web-development.I am a tec
 <details>
   <summary><b>:zap: HoloPin Badges </b></summary>
 	
-[![@nishitbaria's Holopin board](https://holopin.me/nishitbaria)](https://holopin.io/@nishitbaria)   
+[![@HimanshuNarware's Holopin board](https://holopin.me/HimanshuNarware)](https://holopin.io/@HimanshuNarware)   
 	
 	
 </details>
 	
-[![Nishit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Nishitbaria&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/Nishitbaria/github-readme-activity-graph)	
+[![Nishit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HimanshuNarware&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/HimanshuNarware/github-readme-activity-graph)	
 	
 	
 	
