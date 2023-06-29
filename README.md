@@ -2,7 +2,7 @@
 I am Himanshu, Currently I am Learning about Full Stack Web-development.I am a technology enthusiast and an advocate for open-source projects. I am always looking for opportunities to collaborate on new and innovative ideas. To learn more about me, please feel free to connect with me.  
 ### Connect with me🌐
 <div align="left">
-  <a href="https://www.instagram.com/coder_Himanshunarware_12/" target="_blank">
+  <a href="https://www.instagram.com/himanshu_narware12/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="himanshunarware@gmail.com" target="_blank">
