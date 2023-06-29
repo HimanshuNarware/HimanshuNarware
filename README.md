@@ -47,37 +47,9 @@ I am Himanshu, Currently I am Learning about Full Stack Web-development.I am a t
 	<details>
   <summary><b>:zap:TOP LANGUAGE </b></summary>
 	
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuNarware&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-	
 	
 </details>
 </p>
 	
-<div align="center">
-  <br>
-  <img alt="snake eating my contribution" src="https://github.com/HimanshuNarware/HimanshuNarware/blob/output/github-contribution-grid-snake.svg">
-  <br>      <br>     <br>      </div>
-	
-	
-   
-# **Badges**
-<details>
-  <summary><b>:zap: HoloPin Badges </b></summary>
-	
-[![@HimanshuNarware's Holopin board](https://holopin.me/HimanshuNarware)](https://holopin.io/@HimanshuNarware)   
-	
-	
-</details>
-	
-[![Himanshu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HimanshuNarware&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/HimanshuNarware/github-readme-activity-graph)	
-	
-	
-	
 
-[
-
-
-https://console.firebase.google.com/u/0/project/gyanaguru-4178f/database/gyanaguru-4178f-default-rtdb/data/~2F
-
-]
 	
