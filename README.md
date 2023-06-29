@@ -1,5 +1,7 @@
 ### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines==Hey%2C+I'm+Himanshu+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Himanshu Welcome to my Profile! animated typed out">
-I am Himanshu, Currently I am Learning about Full Stack Web-development.I am a technology enthusiast and an advocate for open-source projects. I am always looking for opportunities to collaborate on new and innovative ideas. To learn more about me, please feel free to connect with me.  
+I am Himanshu, Currently, I am Learning about MERN STACK DEVELOPMENT. I am a technology enthusiast and an advocate for open-source projects. I am always looking for opportunities to collaborate on new and innovative ideas. To learn more about me, please feel free to connect with me.
+ Blockchain enthusiast.
+ Space tech enthusiast.
 ### Connect with me🌐
 <div align="left">
   <a href="https://www.instagram.com/himanshu_narware12/" target="_blank">
