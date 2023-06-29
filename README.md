@@ -1,5 +1,5 @@
-### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Nishit+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Nishit Welcome to my Profile! animated typed out">
-I am Nishit, Currently I am Learning about Full Stack Web-development.I am a technology enthusiast and an advocate for open-source projects. I am always looking for opportunities to collaborate on new and innovative ideas. To learn more about me, please feel free to connect with me.  
+### <img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hey%2C+I'm+Himanshu+Welcome+to+my+Github+Profile!" align="middle" alt="Hey, I'm Himanshu Welcome to my Profile! animated typed out">
+I am Himanshu, Currently I am Learning about Full Stack Web-development.I am a technology enthusiast and an advocate for open-source projects. I am always looking for opportunities to collaborate on new and innovative ideas. To learn more about me, please feel free to connect with me.  
 ### Connect with me🌐
 <div align="left">
   <a href="https://www.youtube.com/channel/UCwsZPZcuwBnyG1ytZjFsigA" target="_blank">
@@ -69,7 +69,7 @@ I am Nishit, Currently I am Learning about Full Stack Web-development.I am a tec
 	
 </details>
 	
-[![Nishit's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HimanshuNarware&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/HimanshuNarware/github-readme-activity-graph)	
+[![Himanshu's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=HimanshuNarware&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true")](https://github.com/HimanshuNarware/github-readme-activity-graph)	
 	
 	
 	
