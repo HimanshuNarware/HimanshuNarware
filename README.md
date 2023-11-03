@@ -25,6 +25,7 @@ I am Himanshu, Currently, I am Learning about MERN STACK DEVELOPMENT. I am a tec
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+[![An image of @himanshunarware's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshunarware)](https://holopin.io/@himanshunarware)
 
 ### Libraries & Framework :
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -40,7 +41,6 @@ I am Himanshu, Currently, I am Learning about MERN STACK DEVELOPMENT. I am a tec
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HimanshuNarware&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuNarware&theme=tokyonight"/>
-  ![An image of @himanshunarware's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshunarware)
 	<details>
   <summary><b>:zap:TOP LANGUAGE </b></summary>
 	
