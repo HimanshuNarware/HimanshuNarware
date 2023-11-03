@@ -26,7 +26,6 @@ I am Himanshu, Currently, I am Learning about MERN STACK DEVELOPMENT. I am a tec
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 [![An image of @himanshunarware's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshunarware)](https://holopin.io/@himanshunarware)
-
 ### Libraries & Framework :
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
