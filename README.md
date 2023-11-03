@@ -40,6 +40,7 @@ I am Himanshu, Currently, I am Learning about MERN STACK DEVELOPMENT. I am a tec
 	
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HimanshuNarware&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HimanshuNarware&theme=tokyonight"/>
+  ![An image of @himanshunarware's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/himanshunarware)
 	<details>
   <summary><b>:zap:TOP LANGUAGE </b></summary>
 	
